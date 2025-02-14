@@ -10,7 +10,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/canary-hands-on
+    repoURL: https://github.com/archi-chiki/canary-hands-on
     targetRevision: main
     path: helmchart/fasttest
 
