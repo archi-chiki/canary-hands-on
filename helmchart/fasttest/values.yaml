@@ -3,10 +3,10 @@
 applicationName: "fasttest"
 # Container image
 image:
-  repository: 465342047834.dkr.ecr.ap-northeast-2.amazonaws.com/test
+  repository: archichiki/go-ping
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.ss
-  tag: "2.0"
+  tag: "1.0"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
